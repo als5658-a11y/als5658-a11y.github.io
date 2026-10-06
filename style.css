@@ -1,0 +1,14 @@
+body {
+    background-color: #889B93;
+    color: #362419;
+    font-family: Garamond, serif;
+}
+
+h1 {
+    background-color: #CFCFCD;
+}
+
+img {
+    border: 20px dashed #354242;
+    padding: 40px;
+}
